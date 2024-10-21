@@ -1,4 +1,3 @@
-Here’s a draft of your README for your GitHub repository containing the solution notebook for the Amazon ML Challenge:
 
 ---
 
@@ -52,15 +51,10 @@ Given that we had mid-semester exams during the competition, we did our best wit
    git clone https://github.com//CoderOMaster/Amazon_ML_Challenge-2024
    ```
 
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the solution notebook:
+2. Run the solution notebook:
    - Open the Jupyter Notebook file `solution.ipynb` and follow the steps to reproduce the results.
    
-4. Ensure you have access to the dataset (train.csv and test.csv), and modify the notebook paths accordingly.
+3. Ensure you have access to the dataset (train.csv and test.csv), and modify the notebook paths accordingly.
 
 ## Conclusion
 
@@ -70,9 +64,3 @@ Feel free to explore the notebook and adapt the solution to similar tasks involv
 
 ---
 
-### License
-This project is licensed under the MIT License.
-
----
-
-Let me know if you need any further changes or additional information!
