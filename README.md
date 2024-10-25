@@ -4,6 +4,7 @@
 # Amazon ML Challenge: Entity Extraction from Product Images
 
 This repository contains our solution for the Amazon Machine Learning Challenge, which involved building a model to extract entity values from product images. This capability is crucial for e-commerce applications where product specifications, such as weight, dimensions, voltage, etc., are often embedded within images.
+Problem Statement: https://www.kaggle.com/datasets/abhishekgautam12/amazon-ml-challenge-2024
 
 ## Problem Overview
 
